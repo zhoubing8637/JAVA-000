@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8b3b875-643f-412a-ad8d-7cbb1e510aee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\app\maven\repository" />
+        <option name="userSettingsFile" value="D:\app\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kSlVp5V3sfc2wbGRvuyspdOmMS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.5317919" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\MY_JAVA\springbean\src\main\java\xml" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\MY_JAVA\springbean\src\main\java\java" />
+      <recent name="D:\work\MY_JAVA\springbean\src\main\java\auto" />
+      <recent name="D:\work\MY_JAVA\springbean\src" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8b3b875-643f-412a-ad8d-7cbb1e510aee" name="Default Changelist" comment="" />
+      <created>1605701899192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605701899192</updated>
+      <workItem from="1605701903355" duration="3823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="131" key="#HTTP_Proxy" timestamp="1605703233438">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="131" key="#HTTP_Proxy/0.0.1440.920@0.0.1440.920" timestamp="1605703233438" />
+    <state x="313" y="122" key="#Inspections" timestamp="1605704092473">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="122" key="#Inspections/0.0.1440.920@0.0.1440.920" timestamp="1605704092473" />
+    <state x="313" y="122" key="#Project_Structure" timestamp="1605703869993">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="122" key="#Project_Structure/0.0.1440.920@0.0.1440.920" timestamp="1605703869993" />
+    <state x="510" y="327" width="421" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605705721776">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="510" y="327" width="421" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.920@0.0.1440.920" timestamp="1605705721776" />
+    <state x="426" y="242" key="FileChooserDialogImpl" timestamp="1605704912984">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="426" y="242" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1605704912984" />
+    <state x="251" y="119" key="Maven.ArtifactSearchDialog" timestamp="1605704716885">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="251" y="119" key="Maven.ArtifactSearchDialog/0.0.1440.920@0.0.1440.920" timestamp="1605704716885" />
+    <state x="224" y="76" key="SettingsEditor" timestamp="1605705034254">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="224" y="76" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1605705034254" />
+    <state x="401" y="153" key="spring file set editor" timestamp="1605704551811">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="401" y="153" key="spring file set editor/0.0.1440.920@0.0.1440.920" timestamp="1605704551811" />
+  </component>
+</project>

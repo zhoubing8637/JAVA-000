@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="129aee36-a2c1-45e8-a578-c0906f3e12de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\app\maven\repository" />
+        <option name="userSettingsFile" value="D:\app\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kStcCJPyGFuuAI5lfWY2uP4OTT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/classes/INFO" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.5317919" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\MY_JAVA\starter\target\classes\INFO" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in starter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="starter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in starter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="129aee36-a2c1-45e8-a578-c0906f3e12de" name="Default Changelist" comment="" />
+      <created>1605705897456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605705897456</updated>
+      <workItem from="1605705901158" duration="2562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="122" key="#Inspections" timestamp="1605707933058">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="122" key="#Inspections/0.0.1440.920@0.0.1440.920" timestamp="1605707933058" />
+    <state x="313" y="122" key="#Project_Structure" timestamp="1605706658945">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="122" key="#Project_Structure/0.0.1440.920@0.0.1440.920" timestamp="1605706658945" />
+    <state x="424" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605707383554">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="424" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920@0.0.1440.920" timestamp="1605707383554" />
+    <state x="201" y="38" key="SettingsEditor" timestamp="1605708462879">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="201" y="38" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1605708462879" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="people" class="com.pojo.People" autowire="byName">
+        <property name="name" value="熊宝"/>
+    </bean>
+
+    <bean id="cat" class="com.pojo.Cat"></bean>
+    <bean id="dog" class="com.pojo.Dog"></bean>
+
+    <bean id="people" class="com.pojo.People" autowire="byType">
+        <property name="name" value="熊宝"/>
+    </bean>
+    <!-- 通过类型自动装配不需要id -->
+    <bean  class="com.pojo.Cat"></bean>
+    <bean  class="com.pojo.Dog"></bean>
+
+</beans>
