@@ -18,5 +18,5 @@ ExcutorService：接口API，执行、提交、关闭等操作
 *ThreadFactory：线程工厂，创建新线程，
 Excutors：工具类
 （4） 锁
-使用synchronized加锁，wait和notify对应加锁和解锁，但是synchronized锁住的同步块无法中断、无法超时控制、无法异步处理、锁不灵活；
+ 使用synchronized加锁，wait和notify对应加锁和解锁，但是synchronized锁住的同步块无法中断、无法超时控制、无法异步处理、锁不灵活；
 Lock显示锁使用方式灵活可控，有可重入锁、公平锁、读写锁等。
